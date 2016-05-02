@@ -4,7 +4,7 @@ SPESC MIT Pune
 
 This project is the official website of SPE (Society of Petroleum Engineers) MIT Pune's student chapter for the duration 2013-15. This website also served as the official website of MIT Pune's Dept. of Petroleum Engineering.
 
-
+The website is offline. However, a cached snapshot is available. <a href="https://web.archive.org/web/20140219134254/http://spesc.mitpune.edu.in/">Click here</a> to open the cached version.
 
 Screenshots
 -----------
@@ -50,3 +50,4 @@ Screenshots
 [5]: http://i.imgur.com/0KqIbf0.png
 [6]: http://i.imgur.com/yZM6za8.png
 [7]: http://i.imgur.com/XBvbPkB.png
+[8]: https://web.archive.org/web/20140219134254/http://spesc.mitpune.edu.in/

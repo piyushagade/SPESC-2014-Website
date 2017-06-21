@@ -9,25 +9,23 @@ The website is offline. However, a cached snapshot is available. <a href="https:
 Screenshots
 -----------
 
-| ![Home Page][1] |
+![Home Page][1]
+
+![Home Page][2]
 
 
-| ![Home Page][2] |
+![About MIT Pune][3]
 
 
-| ![About MIT Pune][3] |
+![Founder's Letter][4]
 
 
-| ![Founder's Letter][4] |
+![Teams Compare Result][6]
 
 
-| ![Teams Compare Result][6] |
+![Case Study Event Page][5]
 
-
-| ![Case Study Event Page][5] |
-
-
-| ![Gallery][7] |
+![Gallery][7]
 
 [1]: http://i.imgur.com/5nGfYVZ.png
 [2]: http://i.imgur.com/6DwqM7a.png
